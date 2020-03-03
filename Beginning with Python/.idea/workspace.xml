@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02exe/02ExeLerEImprimirNome" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02exe/04ExeReceberNumerosExibirSomaSubDivMult.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02exe/05exeCalcularPotencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="136">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -257,8 +254,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="699" height="744" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.045385778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -304,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
