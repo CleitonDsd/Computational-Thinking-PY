@@ -1,0 +1,7 @@
+
+
+nome = input ("Nome:")
+
+sobrenome = (input) ("Sobrenome: ")
+
+print("Nome: " + nome + " " + sobrenome)
