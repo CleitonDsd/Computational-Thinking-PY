@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py" beforeDir="false" afterPath="$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,11 +44,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -73,6 +82,7 @@
         <option value="$PROJECT_DIR$/02exe/Exe04ReceberNumerosExibirSomaSubDivMult.py" />
         <option value="$PROJECT_DIR$/02exe/05exeCalcularPotencia.py" />
         <option value="$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py" />
+        <option value="$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py" />
       </list>
     </option>
   </component>
@@ -123,28 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06ExeCalcularAreaPerimetroCirculo">
-    <configuration name="02ExeLerEImprimirNome" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Beginning with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02exe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02exe/02ExeLerEImprimirNome" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.07ExeReceberNumerosEImprimirDigitoDasDezenas">
     <configuration name="03ExeExibirNomeEIdadeEm2020" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,6 +197,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="07ExeReceberNumerosEImprimirDigitoDasDezenas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginning with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02exe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Exe04ReceberNumerosExibirSomaSubDivMult" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.07ExeReceberNumerosEImprimirDigitoDasDezenas" />
         <item itemvalue="Python.06ExeCalcularAreaPerimetroCirculo" />
         <item itemvalue="Python.05exeCalcularPotencia" />
         <item itemvalue="Python.Exe04ReceberNumerosExibirSomaSubDivMult" />
         <item itemvalue="Python.03ExeExibirNomeEIdadeEm2020" />
-        <item itemvalue="Python.02ExeLerEImprimirNome" />
       </list>
     </recent_temporary>
   </component>
@@ -256,12 +266,12 @@
     <frame x="-8" y="-8" width="699" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.045385778" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43419063" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34397164" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34397164" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -302,8 +312,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>
