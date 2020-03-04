@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02exe/08ExeCalcularManeirasDiferentesDeSeVestir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02exe/09ExeCalcularDescontoPrecoPosDesconto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +49,7 @@
         <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -60,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -74,11 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02exe/09ExeCalcularDescontoPrecoPosDesconto.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="170">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -106,6 +113,7 @@
         <option value="$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py" />
         <option value="$PROJECT_DIR$/02exe/08ExeCalcularManeirasDiferentesDeSeVestir.py" />
         <option value="$PROJECT_DIR$/02exe/09ExeCalcularDescontoPrecoPosDesconto.py" />
+        <option value="$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py" />
       </list>
     </option>
   </component>
@@ -121,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,7 +146,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,28 +164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.09ExeCalcularDescontoPrecoPosDesconto">
-    <configuration name="05exeCalcularPotencia" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Beginning with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02exe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02exe/05exeCalcularPotencia.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.10ExeCalcularVelocidadeMediaEmMsEKm">
     <configuration name="06ExeCalcularAreaPerimetroCirculo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,13 +249,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="10ExeCalcularVelocidadeMediaEmMsEKm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginning with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02exe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10ExeCalcularVelocidadeMediaEmMsEKm" />
         <item itemvalue="Python.09ExeCalcularDescontoPrecoPosDesconto" />
         <item itemvalue="Python.08ExeCalcularManeirasDiferentesDeSeVestir" />
         <item itemvalue="Python.07ExeReceberNumerosEImprimirDigitoDasDezenas" />
         <item itemvalue="Python.06ExeCalcularAreaPerimetroCirculo" />
-        <item itemvalue="Python.05exeCalcularPotencia" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +297,7 @@
     <frame x="-8" y="-8" width="699" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43419063" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28744328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -336,14 +344,14 @@
     <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -356,8 +364,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02exe/09ExeCalcularDescontoPrecoPosDesconto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="170">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
         </state>
       </provider>
     </entry>
