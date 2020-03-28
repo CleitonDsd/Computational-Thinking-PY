@@ -12,12 +12,20 @@ diasUteis = int(input("Dias úteis: "))
 horasTrabalhadas = int(input("Horas Trabalhadas: "))
 valorHoras = float(input("Valor Hora (R$): "))
 
-jornadaMensal = diasUteis * 8
+calcularHoraPorDiasTrabalhados = 8 * diasUteis
+horaExtra = valorHoras * 1.5
 
-if jornadaMensal >= horasTrabalhadas:
-    salarioMensal = horasTrabalhadas * valorHoras
+if (horasTrabalhadas > calcularHoraPorDiasTrabalhados):
+    salarioTotal = horasTrabalhadas * horaExtra
+    print("Salário total (R$): ", salarioTotal )
+
+    valorHoraExtra = horasTrabalhadas - horaExtra
+    print("Hora Extra (R$): ", valorHoraExtra)
+
+    salarioBruto = salarioTotal - valorHoraExtra
+    print("Salário Bruto (R$): ", salarioBruto)
+
 else:
-    print("Calcular Horas-Extras")
-    salarioMensal = 0.0
-
-print("Salário Mensal: ", salarioMensal)
+    salarioTotal = calcularHoraPorDiasTrabalhados * valorHoras
+    print("Salário total (R$): ", salarioTotal)
+    print("Hora Extra (R$): 0")

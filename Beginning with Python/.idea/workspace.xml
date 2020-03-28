@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03exe/02Exe_VerificarQualDosValoresEMaior.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03exe/04Exe_LerDoisTimesEImprimirVencedorPelosGols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03exe/Exe07CalcularRaizQuadrada.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" beforeDir="false" afterPath="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="527">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -98,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03exe/Exe07CalcularRaizQuadrada.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            <state relative-caret-position="221">
+              <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -133,19 +129,20 @@
         <option value="$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py" />
         <option value="$PROJECT_DIR$/03exe/01Exe_ExibirSeNMAiorQue10.py" />
         <option value="$PROJECT_DIR$/03exe/02Exe_VerificarQualDosValoresEMaior.py" />
-        <option value="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" />
         <option value="$PROJECT_DIR$/03exe/04Exe_.py" />
         <option value="$PROJECT_DIR$/03exe/04Exe_LerDoisTimesEImprimirVencedorPelosGols.py" />
         <option value="$PROJECT_DIR$/03exe/Exe06_.py" />
         <option value="$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py" />
         <option value="$PROJECT_DIR$/03exe/Exe07.py" />
+        <option value="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
-    <option name="width" value="1294" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -153,7 +150,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,6 +166,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Exe07">
+  <component name="RunManager" selected="Python.05Exe_CalcularValorRecebidoExtrasETC">
     <configuration name="02Exe_VerificarQualDosValoresEMaior" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,10 +293,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05Exe_CalcularValorRecebidoExtrasETC" />
         <item itemvalue="Python.Exe07" />
         <item itemvalue="Python.Exe06_CalcularSeADivisivelPorB" />
         <item itemvalue="Python.04Exe_LerDoisTimesEImprimirVencedorPelosGols" />
-        <item itemvalue="Python.05Exe_CalcularValorRecebidoExtrasETC" />
         <item itemvalue="Python.02Exe_VerificarQualDosValoresEMaior" />
       </list>
     </recent_temporary>
@@ -318,15 +315,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24761146" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2837838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.342312" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20111111" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -421,13 +418,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -437,8 +427,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/03exe/Exe07CalcularRaizQuadrada.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="45" lean-forward="true" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        <state relative-caret-position="221">
+          <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
