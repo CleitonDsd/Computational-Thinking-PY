@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" beforeDir="false" afterPath="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py" beforeDir="false" afterPath="$PROJECT_DIR$/03exe/06Exe_CalcularSeADivisivelPorB.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03exe/Exe07CalcularRaizQuadrada.py" beforeDir="false" afterPath="$PROJECT_DIR$/03exe/07ExeCalcularRaizQuadrada.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,24 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02exe/08ExeCalcularManeirasDiferentesDeSeVestir.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02exe/09ExeCalcularDescontoPrecoPosDesconto.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,11 +52,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="527">
               <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -86,7 +89,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py">
+        <entry file="file://$PROJECT_DIR$/03exe/06Exe_CalcularSeADivisivelPorB.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
@@ -95,10 +98,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/Exe07CalcularRaizQuadrada.py">
+        <entry file="file://$PROJECT_DIR$/03exe/07ExeCalcularRaizQuadrada.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -135,6 +138,8 @@
         <option value="$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py" />
         <option value="$PROJECT_DIR$/03exe/Exe07.py" />
         <option value="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" />
+        <option value="$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py" />
+        <option value="$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py" />
       </list>
     </option>
   </component>
@@ -185,49 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.05Exe_CalcularValorRecebidoExtrasETC">
-    <configuration name="02Exe_VerificarQualDosValoresEMaior" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Beginning with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/02Exe_VerificarQualDosValoresEMaior.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04Exe_LerDoisTimesEImprimirVencedorPelosGols" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Beginning with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/04Exe_LerDoisTimesEImprimirVencedorPelosGols.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.09Exe_CalculadoraInformandoErroDivisaoPorZero">
     <configuration name="05Exe_CalcularValorRecebidoExtrasETC" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -249,6 +212,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08Exe_ReceberIdadeEClassificarCategoria" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginning with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09Exe_CalculadoraInformandoErroDivisaoPorZero" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginning with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Exe06_CalcularSeADivisivelPorB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\03exe\06Exe_CalcularSeADivisivelPorB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,7 +287,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\03exe\Exe07CalcularRaizQuadrada.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\03exe\07ExeCalcularRaizQuadrada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -293,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.09Exe_CalculadoraInformandoErroDivisaoPorZero" />
+        <item itemvalue="Python.08Exe_ReceberIdadeEClassificarCategoria" />
         <item itemvalue="Python.05Exe_CalcularValorRecebidoExtrasETC" />
         <item itemvalue="Python.Exe07" />
         <item itemvalue="Python.Exe06_CalcularSeADivisivelPorB" />
-        <item itemvalue="Python.04Exe_LerDoisTimesEImprimirVencedorPelosGols" />
-        <item itemvalue="Python.02Exe_VerificarQualDosValoresEMaior" />
       </list>
     </recent_temporary>
   </component>
@@ -418,17 +423,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/Exe06_CalcularSeADivisivelPorB.py">
+    <entry file="file://$PROJECT_DIR$/03exe/06Exe_CalcularSeADivisivelPorB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/Exe07CalcularRaizQuadrada.py">
+    <entry file="file://$PROJECT_DIR$/03exe/07ExeCalcularRaizQuadrada.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="61" lean-forward="true" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -436,6 +441,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
