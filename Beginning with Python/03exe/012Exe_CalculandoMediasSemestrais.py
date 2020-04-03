@@ -11,3 +11,4 @@ totalAulasAssitidas = int(input("Total de aulas assitidas: "))
 notaPrimeiroSemestre = float("1° Semestre - nota: ")
 notaSegundoSemestre = float("2° Semestre - nota: ")
 
+
