@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_DesafioJogoAdvinhaIfElses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03exe/013Exe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03exe/014Exe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/01ExeCalcularSequenciaDeNumerosPares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/02ExeCalcularMediaAlunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/03ExeCalcularMediaNotaEAlunosComNotas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/04ExeContarQuantidadePositivosENegativos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/05ExeDadoUmNumeroPirntarTodosDiviseisPorEle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/06ExeCalcularPontuacaoObtidaEmTorneio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/07ExeAlgortimoCalculaGrausCentigradosEmFahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/08ExeVerificarSeNumeroEPrimo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/09ExeAplicarTaxaDeJurosMensalAValor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/10ExeCalcularFatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/11ExeNumeroPrimoUsandoWhile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/12ExeSequenciaFibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04Exe/13ExeNumerosPalindromos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05Exe/04ExeValidarCPF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AguaViva.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03exe/012Exe_CalculandoMediasSemestrais.py" beforeDir="false" afterPath="$PROJECT_DIR$/03exe/012Exe_CalculandoMediasSemestrais.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,87 +29,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py">
+        <entry file="file://$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="187">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/010Exe_CalcularEquacao2Grau.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/011Exe_QuantoDeveSerPagoPorUmProduto.py">
+        <entry file="file://$PROJECT_DIR$/04Exe/11ExeNumeroPrimoUsandoWhile.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/012Exe_CalculandoMediasSemestrais.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_DesafioJogoAdvinhaIfElses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/013Exe.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03exe/014Exe.py">
+        <entry file="file://$PROJECT_DIR$/05Exe/04ExeValidarCPF.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/04Exe_LerDoisTimesEImprimirVencedorPelosGols.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/06Exe_CalcularSeADivisivelPorB.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03exe/07ExeCalcularRaizQuadrada.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+            <state relative-caret-position="68">
+              <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -145,11 +98,32 @@
         <option value="$PROJECT_DIR$/03exe/Exe013.py" />
         <option value="$PROJECT_DIR$/03exe/013Exe.py" />
         <option value="$PROJECT_DIR$/03exe/014Exe.py" />
+        <option value="$PROJECT_DIR$/AguaViva.py" />
+        <option value="$PROJECT_DIR$/04Exe/03Exe.py" />
+        <option value="$PROJECT_DIR$/04Exe/04Exe.py" />
+        <option value="$PROJECT_DIR$/04Exe/05Exe.py" />
+        <option value="$PROJECT_DIR$/04Exe/06Exe.py" />
+        <option value="$PROJECT_DIR$/04Exe/02ExeCalcularMediaAlunos.py" />
+        <option value="$PROJECT_DIR$/04Exe/01ExeCalcularSequenciaDeNumerosPares.py" />
+        <option value="$PROJECT_DIR$/04Exe/03ExeCalcularMediaNotaEAlunosComNotas.py" />
+        <option value="$PROJECT_DIR$/04Exe/04ExeContarQuantidadePositivosENegativos.py" />
+        <option value="$PROJECT_DIR$/04Exe/Exe12_SequenciaFibonacci.py" />
+        <option value="$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py" />
+        <option value="$PROJECT_DIR$/04Exe/06ExeCalcularPontuacaoObtidaEmTorneio.py" />
+        <option value="$PROJECT_DIR$/04Exe/07ExeAlgortimoCalculaGrausCentigradosEmFahrenheit.py" />
+        <option value="$PROJECT_DIR$/04Exe/08ExeVerificarSeNumeroEPrimo.py" />
+        <option value="$PROJECT_DIR$/04Exe/Exe09AplicarTaxaDeJurosMensalAValor.py" />
+        <option value="$PROJECT_DIR$/04Exe/09ExeAplicarTaxaDeJurosMensalAValor.py" />
+        <option value="$PROJECT_DIR$/04Exe/10ExeCalcularFatorial.py" />
+        <option value="$PROJECT_DIR$/04Exe/11ExeNumeroPrimoUsandoWhile.py" />
+        <option value="$PROJECT_DIR$/04Exe/12ExeSequenciaFibonacci.py" />
+        <option value="$PROJECT_DIR$/04Exe/13ExeNumerosPalindromos.py" />
+        <option value="$PROJECT_DIR$/05Exe/04ExeValidarCPF.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1273" />
+    <option name="x" value="-7" />
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
@@ -169,7 +143,12 @@
             <path>
               <item name="Beginning with Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Beginning with Python" type="462c0819:PsiDirectoryNode" />
-              <item name="03exe" type="462c0819:PsiDirectoryNode" />
+              <item name="04Exe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Beginning with Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Beginning with Python" type="462c0819:PsiDirectoryNode" />
+              <item name="05Exe" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -199,8 +178,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.JogoAdvinha">
-    <configuration name="010Exe_CalcularEquacao2Grau" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.04ExeValidarCPF">
+    <configuration name="04ExeValidarCPF" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05Exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/010Exe_CalcularEquacao2Grau.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05Exe/04ExeValidarCPF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="011Exe_QuantoDeveSerPagoPorUmProduto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="08ExeVerificarSeNumeroEPrimo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04Exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/011Exe_QuantoDeveSerPagoPorUmProduto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Exe/08ExeVerificarSeNumeroEPrimo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08Exe_ReceberIdadeEClassificarCategoria" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="09ExeAplicarTaxaDeJurosMensalAValor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04Exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Exe/09ExeAplicarTaxaDeJurosMensalAValor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09Exe_CalculadoraInformandoErroDivisaoPorZero" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10ExeCalcularFatorial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,11 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04Exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Exe/10ExeCalcularFatorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="JogoAdvinha" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12ExeSequenciaFibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,11 +271,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04Exe" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\01_DesafioJogoAdvinhaIfElses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04Exe/12ExeSequenciaFibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.JogoAdvinha" />
-        <item itemvalue="Python.011Exe_QuantoDeveSerPagoPorUmProduto" />
-        <item itemvalue="Python.010Exe_CalcularEquacao2Grau" />
-        <item itemvalue="Python.09Exe_CalculadoraInformandoErroDivisaoPorZero" />
-        <item itemvalue="Python.08Exe_ReceberIdadeEClassificarCategoria" />
+        <item itemvalue="Python.04ExeValidarCPF" />
+        <item itemvalue="Python.12ExeSequenciaFibonacci" />
+        <item itemvalue="Python.10ExeCalcularFatorial" />
+        <item itemvalue="Python.09ExeAplicarTaxaDeJurosMensalAValor" />
+        <item itemvalue="Python.08ExeVerificarSeNumeroEPrimo" />
       </list>
     </recent_temporary>
   </component>
@@ -329,15 +308,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1273" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2834395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28582802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31986532" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28170595" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39842874" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -466,6 +446,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01_DesafioJogoAdvinhaIfElses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03exe/013Exe.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03exe/014Exe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03exe/04Exe_LerDoisTimesEImprimirVencedorPelosGols.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/03exe/06Exe_CalcularSeADivisivelPorB.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -480,27 +484,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_DesafioJogoAdvinhaIfElses.py">
+    <entry file="file://$PROJECT_DIR$/AguaViva.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="224">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/013Exe.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/04Exe_LerDoisTimesEImprimirVencedorPelosGols.py">
+    <entry file="file://$PROJECT_DIR$/04Exe/05ExeDadoUmNumeroPirntarTodosDiviseisPorEle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="17">
+          <caret line="1" column="39" selection-start-column="2" selection-end-line="1" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/014Exe.py">
+    <entry file="file://$PROJECT_DIR$/04Exe/02ExeCalcularMediaAlunos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/03ExeCalcularMediaNotaEAlunosComNotas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/04ExeContarQuantidadePositivosENegativos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/01ExeCalcularSequenciaDeNumerosPares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="91" lean-forward="true" selection-start-column="23" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/06ExeCalcularPontuacaoObtidaEmTorneio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/07ExeAlgortimoCalculaGrausCentigradosEmFahrenheit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/09ExeAplicarTaxaDeJurosMensalAValor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/10ExeCalcularFatorial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/08ExeVerificarSeNumeroEPrimo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/12ExeSequenciaFibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/13ExeNumerosPalindromos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04Exe/11ExeNumeroPrimoUsandoWhile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/04ExeValidarCPF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
