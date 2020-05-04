@@ -1,23 +1,23 @@
 
 # MMC
+
 numero1 = int(input("Digite um número: "))
 numero2 = int(input("Digite outro número: "))
+soma = 0
+auxiliar = 0
 
 if numero1 < 0 or numero2 < 0:
     print("Erro: digite um número positivo!")
 else:
 
-    # fatoração simultânea
-    contador = 2
-    auxiliar = 0
-    mmc = 0
-    while contador <= numero2:
+    if numero1 < numero2:
+        auxiliar = numero1
+        numero1 = numero2
+        numero2 = auxiliar
 
-        auxiliar = numero1 * contador
-        if (auxiliar % numero1 == 0):
-            mmc = auxiliar
-            contador = numero2 + 1
+    soma = numero1
 
-        contador+= 1
-        print("")
-        print("MMC: ", mmc)
+    while soma % numero2 != 0:
+        soma += numero1
+
+print("MMMC (", numero1, ", ", numero2,"): ", soma)
