@@ -2,18 +2,23 @@
 
 numero1 = int(input("Digite um número: "))
 numero2 = int(input("Digite outro número: "))
+resto = 0
+auxiliar = 0
 
 if numero1 < 0 or numero2 < 0:
     print("Erro: digite um número positivo!")
 else:
 
+    if numero1 < numero2:
+        auxiliar = numero1
+        numero1 = numero2
+        numero2 = auxiliar
 
-    contador = 2
-    auxiliar = 0
-    mmc = 0
-    while numero2 != 0:
-        resto = numero1 % numero2
+    resto = numero1 % numero2
+
+    while resto != 0:
         numero1 = numero2
         numero2 = resto
-        print("")
-        print("MDC: ", numero1)
+        resto = numero1 % numero2
+
+print("MDC (", numero1, ", ", numero2,"): ", numero2)
