@@ -9,10 +9,6 @@ if numero1 < 0 or numero2 < 0:
     print("Erro: digite um número positivo!")
 else:
 
-    if numero1 < numero2:
-        auxiliar = numero1
-        numero1 = numero2
-        numero2 = auxiliar
 
     resto = numero1 % numero2
 
