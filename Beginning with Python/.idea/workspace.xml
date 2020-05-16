@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05Exe/Exe01_funcoes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05Exe/Exe02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05Exe/Exe03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05Exe/Exe04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05Exe/Exe05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lista-extra/SegmentoCrescenteMaximo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05Exe/02_HexadecimalParaDecimal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05Exe/04ExeValidarCPF.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAC/Exe01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAC/Exe02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAC/Exe03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NAC/Exe04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05CPF/01_BinarioParaDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/05CPF/01_BinarioParaDecimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05CPF/02_HexadecimalParaDecimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/05CPF/02_HexadecimalParaDecimal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,47 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05CPF/02_HexadecimalParaDecimal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05Exe/Exe01_funcoes.py">
+        <entry file="file://$PROJECT_DIR$/05CPF/01_BinarioParaDecimal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05Exe/Exe02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05Exe/Exe03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05Exe/Exe04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05Exe/Exe05.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -85,8 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03exe/Exe07.py" />
-        <option value="$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py" />
         <option value="$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py" />
         <option value="$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py" />
         <option value="$PROJECT_DIR$/03exe/010Exe_CalcularEquacao2Grau.py" />
@@ -136,6 +95,8 @@
         <option value="$PROJECT_DIR$/05Exe/Exe02.py" />
         <option value="$PROJECT_DIR$/05Exe/Exe03.py" />
         <option value="$PROJECT_DIR$/05Exe/Exe05.py" />
+        <option value="$PROJECT_DIR$/05CPF/02_HexadecimalParaDecimal.py" />
+        <option value="$PROJECT_DIR$/05CPF/01_BinarioParaDecimal.py" />
       </list>
     </option>
   </component>
@@ -160,7 +121,7 @@
             <path>
               <item name="Beginning with Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Beginning with Python" type="462c0819:PsiDirectoryNode" />
-              <item name="05Exe" type="462c0819:PsiDirectoryNode" />
+              <item name="05CPF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,16 +305,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02exe/04ExeReceberNumerosExibirSomaSubDivMult.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02exe/05exeCalcularPotencia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -680,8 +631,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05Exe/Exe01_funcoes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05CPF/02_HexadecimalParaDecimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05CPF/01_BinarioParaDecimal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

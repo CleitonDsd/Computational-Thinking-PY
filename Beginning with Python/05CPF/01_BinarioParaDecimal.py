@@ -1,12 +1,14 @@
-binario = int(input("Informe o número binário: "))
+#Converte um binario para decimal
+binario = int(input("Informe o numero binario: "))
 
-potenciaDois = 1
+potDois = 1
 acumulador = 0
+
 while binario != 0:
     digito = binario % 10
     binario = binario // 10
-    #print(digito * potenciaDois)
-    acumulador += digito * potenciaDois
-    potenciaDois *= 2
+    #print(digito * potDois)
+    acumulador = acumulador + digito * potDois
+    potDois = 2 * potDois   
 
 print(acumulador)
