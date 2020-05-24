@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15ab1c67-83ef-4bde-bd9a-d6531447f6b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/06exe/Exe02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NAC/02_/Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NAC/02_/Exe01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NAC/02_/Exe03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NAC/02_/Exe04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NAC/02_/Exe05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista-extra/forcaTDSS.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_DesafioJogoAdvinhaIfElses.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista-extra/01_DesafioJogoAdvinhaIfElses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AdvinhaJogo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lista-extra/AdvinhaJogo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +18,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NAC/02_/Exe01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NAC/02_/Data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -28,13 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03exe/08Exe_ReceberIdadeEClassificarCategoria.py" />
-        <option value="$PROJECT_DIR$/03exe/09Exe_CalculadoraInformandoErroDivisaoPorZero.py" />
-        <option value="$PROJECT_DIR$/03exe/010Exe_CalcularEquacao2Grau.py" />
-        <option value="$PROJECT_DIR$/03exe/011Exe_QuantoDeveSerPagoPorUmProduto.py" />
-        <option value="$PROJECT_DIR$/03exe/012Exe_CalculandoMediasSemestrais.py" />
-        <option value="$PROJECT_DIR$/03exe/JogoAdvinha.py" />
-        <option value="$PROJECT_DIR$/01_DesafioJogoAdvinhaIfElses.py" />
         <option value="$PROJECT_DIR$/03exe/Eze013.py" />
         <option value="$PROJECT_DIR$/03exe/Exe013.py" />
         <option value="$PROJECT_DIR$/03exe/014Exe.py" />
@@ -79,13 +96,20 @@
         <option value="$PROJECT_DIR$/05CPF/01_BinarioParaDecimal.py" />
         <option value="$PROJECT_DIR$/04Exe/Exe14.py" />
         <option value="$PROJECT_DIR$/03exe/013Exe.py" />
+        <option value="$PROJECT_DIR$/NAC/02_/Exe04.py" />
+        <option value="$PROJECT_DIR$/NAC/02_/Exe05.py" />
+        <option value="$PROJECT_DIR$/06exe/Exe02.py" />
+        <option value="$PROJECT_DIR$/lista-extra/forcaTDSS.py" />
+        <option value="$PROJECT_DIR$/NAC/02_/Exe01.py" />
+        <option value="$PROJECT_DIR$/NAC/02_/Data.py" />
+        <option value="$PROJECT_DIR$/NAC/02_/Exe03.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1047" />
+    <option name="x" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -99,6 +123,17 @@
             <path>
               <item name="Beginning with Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Beginning with Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Beginning with Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Beginning with Python" type="462c0819:PsiDirectoryNode" />
+              <item name="NAC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Beginning with Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Beginning with Python" type="462c0819:PsiDirectoryNode" />
+              <item name="NAC" type="462c0819:PsiDirectoryNode" />
+              <item name="02_" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,8 +165,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex4Lista5">
-    <configuration name="Ex4Lista5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Exe03">
+    <configuration name="Data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Beginning with Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +174,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC/02_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\05Exe\Exe04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/02_/Data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exe01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Beginning with Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC/02_" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/02_/Exe01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,32 +216,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC/02_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/Exe03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exe04 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Beginning with Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/Exe04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/02_/Exe03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +237,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC/02_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\NAC\Exe03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/02_/Exe04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +258,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NAC/02_" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\sdias\OneDrive\Documentos\Cleiton Dsd'\Cleiton - TI\FIAP\1TDSS\Computational Thinking Python\Beginning with Python\NAC\Exe04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NAC/02_/Exe05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,9 +273,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex4Lista5" />
-        <item itemvalue="Python.Exe04 (1)" />
         <item itemvalue="Python.Exe03" />
+        <item itemvalue="Python.Data" />
+        <item itemvalue="Python.Exe01" />
         <item itemvalue="Python.Exe05" />
         <item itemvalue="Python.Exe04" />
       </list>
@@ -260,14 +295,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1047" extended-state="0" />
+    <frame x="-8" y="0" width="1296" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21576433" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6066225" visible="true" weight="0.2154213" />
+      <window_info id="Structure" order="1" sideWeight="0.39337748" side_tool="true" visible="true" weight="0.2154213" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3097643" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16111112" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39842874" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -282,55 +318,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02exe/06ExeCalcularAreaPerimetroCirculo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02exe/07ExeReceberNumerosEImprimirDigitoDasDezenas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02exe/08ExeCalcularManeirasDiferentesDeSeVestir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02exe/09ExeCalcularDescontoPrecoPosDesconto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02exe/10ExeCalcularVelocidadeMediaEmMsEKm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/01Exe_ExibirSeNMAiorQue10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03exe/02Exe_VerificarQualDosValoresEMaior.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03exe/05Exe_CalcularValorRecebidoExtrasETC.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -411,48 +398,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/04ExeValidarCPF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/02_HexadecimalParaDecimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAC/Exe01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAC/Exe02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NAC/Exe04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/04ExeValidarCPF.py" />
+    <entry file="file://$PROJECT_DIR$/05Exe/01_BinarioParaDecimal.py" />
+    <entry file="file://$PROJECT_DIR$/05Exe/02_HexadecimalParaDecimal.py" />
+    <entry file="file://$PROJECT_DIR$/NAC/Exe01.py" />
+    <entry file="file://$PROJECT_DIR$/NAC/Exe02.py" />
+    <entry file="file://$PROJECT_DIR$/NAC/Exe04.py" />
     <entry file="file://$PROJECT_DIR$/lista-extra/SegmentoCrescenteMaximo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -460,51 +411,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NAC/Exe03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/Exe01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/Exe05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/Exe04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/Exe03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/Exe02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05Exe/Exe01_funcoes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/Exe03.py" />
+    <entry file="file://$PROJECT_DIR$/05Exe/Exe01.py" />
     <entry file="file://$PROJECT_DIR$/05CPF/02_HexadecimalParaDecimal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -628,6 +536,90 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/Exe04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/Exe05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/Exe03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/Exe01_funcoes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/02_/Exe04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05Exe/Exe02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06exe/Exe02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/02_/Exe05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lista-extra/forcaTDSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/02_/Exe03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/02_/Exe01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NAC/02_/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
         </state>
       </provider>
     </entry>
